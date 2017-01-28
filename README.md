@@ -1,2 +1,2 @@
 # simple-ether-wallet
-- fuck!
+Ethereumのウォレットアプリケーション
